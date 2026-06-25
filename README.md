@@ -2,7 +2,7 @@
 
 A Connect 4 game built in Python with Pygame, where you play against an AI opponent powered by the **minimax algorithm with alpha-beta pruning**.
 
-![Connect 4 Demo](demo.gif)
+https://github.com/user-attachments/assets/9dbab827-e713-4d99-9c34-1055dade781a
 <!-- Record a short gameplay clip and drop it here as demo.gif — this matters more than any paragraph of text. -->
 
 ## What this project demonstrates
